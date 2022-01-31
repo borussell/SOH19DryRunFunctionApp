@@ -1,0 +1,10 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "UseDevelopmentStorage=true",
+    "FUNCTIONS_WORKER_RUNTIME": "dotnet",
+    "RatingsDatabase": "AccountEndpoint=https://bobbiecosmosacctname.documents.azure.com:443/;AccountKey=Ck3qwkjCldmH7WU2dHP3oG0q2a63Z0CQZq0Qi9LE6t3gF6CKPZPasg6uzKcwD4aOSZAwxo3wVTmsM7CbxYbaiQ==;",
+    "RatingsDbName": "createratingdb",
+    "RatingsCollectionName": "createratingcontainer"
+  }
+}
